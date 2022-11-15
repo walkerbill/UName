@@ -2,7 +2,7 @@
 ## 您的免费域名（UName 或 UFN）
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
-[English Version 英文版](https://github.com/walkerbill/UName/README.md)
+[English Version 英文版](https://github.com/walkerbill/UName/blob/master/README.md)
 
 哈喽，这里是UName运营组。
 
